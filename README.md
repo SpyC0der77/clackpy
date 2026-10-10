@@ -2,6 +2,12 @@
 
 Interactive terminal prompts for Python, inspired by [Clack](https://clack.cc). The package provides text input, masked passwords, confirmation, single selection, and multiple selection.
 
+## Terminal demo
+
+![Recorded terminal usage](docs/images/cli-demo.gif)
+
+Recorded with [VHS](https://github.com/charmbracelet/vhs). [Recording source and instructions](docs/demo/README.md).
+
 ## Install from source
 
 Use Python 3.7 or newer and an interactive terminal.
